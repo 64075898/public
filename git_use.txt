@@ -18,3 +18,8 @@ git commit -m "this is demo 镜像"
 
 git push origin master
 	#提交
+
+#git内容自动展示说明
+#文件名：README.md
+#图片标识：![image](git图片地址) 例 ：![image](/images/gitblit.png)
+#网址标识：[说明:](网址)              例 ：进入[gitblit官网](http://www.gitblit.com/)下载gitblit<br />
